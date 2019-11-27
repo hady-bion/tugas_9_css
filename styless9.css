@@ -1,0 +1,21 @@
+img{
+    z-index: 1;
+    position: absolute;
+    margin: 0 auto;
+}
+
+.container{
+    z-index: 2;
+    position: absolute;
+    background-color: #ffffff;
+    width: 600px;
+    height: 700px;
+    text-align: right;
+    border: 1px solid blue;
+    padding: 10px;
+    margin: 0 auto;
+    float: right;
+    right: 5px;
+    top: 15px;
+    font-weight: bold;
+}
